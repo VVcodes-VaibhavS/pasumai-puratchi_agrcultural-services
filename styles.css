@@ -161,8 +161,7 @@ p {
 }
 
 .logo-icon {
-    font-size: 2rem;
-    animation: float 3s ease-in-out infinite;
+    font-size: 1rem;
 }
 
 @keyframes float {

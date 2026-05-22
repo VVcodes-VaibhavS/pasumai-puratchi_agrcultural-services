@@ -162,6 +162,10 @@ p {
 
 .logo-icon {
     font-size: 1rem;
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    display: block;
 }
 
 @keyframes float {

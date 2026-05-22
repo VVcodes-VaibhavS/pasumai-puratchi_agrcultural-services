@@ -400,11 +400,16 @@ p {
 
 .about-content {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: var(--spacing-xl);
     align-items: center;
 }
-
+/* Arrange about items horizontally */
+.about-text {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-md);
+}
 .about-item {
     display: flex;
     gap: var(--spacing-md);

@@ -119,7 +119,7 @@ whatsappLinks.forEach(link => {
         // Track WhatsApp clicks
         if (typeof gtag !== 'undefined') {
             gtag('event', 'whatsapp_click', {
-                'phone_number': '919092910945'
+                'phone_number': '919994415605'
             });
         }
     });

@@ -1035,8 +1035,13 @@ p {
     }
 
     .info-icon {
-        font-size: 1.5rem;
+        font-size: 1.5rem:;
     }
+}
+
+.social{
+    width: 10px;
+    height: 10px;
 }
 
 /* Utility Classes */

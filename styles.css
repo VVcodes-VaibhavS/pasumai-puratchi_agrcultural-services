@@ -358,7 +358,7 @@ p {
 }
 
 .hero-visual {
-    position: absolute;
+    position: relative;
     height: 300px;
 }
 

@@ -328,9 +328,9 @@ document.querySelectorAll('.service-card').forEach((card, index) => {
     card.addEventListener('click', () => {
         const serviceTitle = card.querySelector('h3').textContent;
         const encodedMessage = encodeURIComponent(
-            `வணக்கம் மருதமுத்து அவர்களே, "${serviceTitle}" சேவை குறித்து விரிவு தகவல் வேண்டிய்கிறேன்.`
+            `வணக்கம் பசுமை புரட்சி அவர்களே, "${serviceTitle}" சேவை குறித்து விரிவு தகவல் வேண்டிய்கிறேன்.`
         );
-        window.open(`https://wa.me/919092910945?text=${encodedMessage}`, '_blank');
+        window.open(`https://wa.me/919994415605?text=${encodedMessage}`, '_blank');
     });
 });
 

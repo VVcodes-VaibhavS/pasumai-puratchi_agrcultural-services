@@ -1059,6 +1059,8 @@ p {
 
 .we{
     align: right;
+    width: 300px;
+    height: 300px;
 }
 /* Print Styles */
 @media print {

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pasumaipuratchiagri.com/sitemap.xml
